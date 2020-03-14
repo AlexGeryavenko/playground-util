@@ -1,1 +1,1 @@
-# Util projects
+# Playground for util projects
