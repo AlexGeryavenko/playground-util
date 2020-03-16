@@ -7,4 +7,4 @@ Course progress info:
 - branches in progress
 - changes from master branch
 - stashing in progress
-
+- change email
